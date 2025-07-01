@@ -2,6 +2,15 @@ body {
     background-color: lightblue;
     background-image: url("../images/01-02-02_background-img.jpg");
 }
+
 h2 {
     color:orangered;
+}
+
+p {
+    font-weight: bold;
+}
+
+.text-center {
+    align-self: center;
 }
